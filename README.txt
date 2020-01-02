@@ -173,7 +173,7 @@ hex sequence, phrase, and date at the end of the file.
 Also, all uploaders must provide their Social Security #,
 if any (this last part is both a joke and a test to see who
 reads this file). Anyone who does not follow these rules
-will be publicly shamed and <s>possibly harassed</s> (if not
+will be publicly shamed and ~~possibly harassed~~ (if not
 removed) until the files are removed.
 
 
