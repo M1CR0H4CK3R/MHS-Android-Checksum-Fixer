@@ -15,13 +15,13 @@ brackets after the name of each section in the Table of Contents.
 
 	1.			REQUIREMENTS								[RQMT]
 	2.			SETUP AND USAGE								[SPNU]
-		2a.			WHERE TO EXTRACT FILES					[WREX]
+		2a.			WHERE TO EXTRACT FILES						[WREX]
 		2b.			RUNNING THE PROGRAM						[RPRG]
-	3.			BUILDING (WINDOWS ONLY FOR NOW)				[BLDG]
-		3a.			IMPORTING PROJECT TO ECLIPSE IDE		[IMPT]
+	3.			BUILDING (WINDOWS ONLY FOR NOW)						[BLDG]
+		3a.			IMPORTING PROJECT TO ECLIPSE IDE				[IMPT]
 		3b.			COMPILING THE CLASS						[CMPL]
-		3c.			BUILDING THE JAR FILE					[BDJR]
-	4.			REGARDING MHS SAVE EDITOR DROID SUPPORT 	[DRDS]
+		3c.			BUILDING THE JAR FILE						[BDJR]
+	4.			REGARDING MHS SAVE EDITOR DROID SUPPORT 				[DRDS]
 	5.			CREDITS AND LICENSE							[CRDT]
 
 
@@ -90,11 +90,11 @@ everything was done correctly, there will be no message at all.
 	-----------------------
 
 
-				-------------
-				-------------
-				-- *TO DO* --
-				-------------
-				-------------
+		-------------
+		-------------
+		-- *TO DO* --
+		-------------
+		-------------
 
 
 	-----------------------------------------------
@@ -104,11 +104,11 @@ everything was done correctly, there will be no message at all.
 	-----------------------------------------------
 
 
-				-------------
-				-------------
-				-- *TO DO* --
-				-------------
-				-------------
+		-------------
+		-------------
+		-- *TO DO* --
+		-------------
+		-------------
 
 
 	----------------------------------
@@ -156,19 +156,24 @@ help diagnosing an error I had on Stack Exchange,
 but other than that, no help was obtained whatsoever.
 I asked on the r/CodingHelp discord for help, but
 got absolutely no response in the 5 days it took to
-make this program.
+make this program. Apache's commons-io is used in
+the .jar, so I have applied their license, and
+mentioned them here.
 
 
 Licensing:
+
+In addition to the Apache License 2.0 that this
+repository goes by, I add the following addendum:
 
 Anyone may post this on their website, as long as
 they include a link to the original thread on GBAtemp,
 as well as this original README.txt file with the same
 hex sequence, phrase, and date at the end of the file.
 Also, all uploaders must provide their Social Security #,
-if any (the SS# part is both a joke and a test to see who
+if any (this last part is both a joke and a test to see who
 reads this file). Anyone who does not follow these rules
-will be publicly shamed and possibly harassed (if not
+will be publicly shamed and <s>possibly harassed</s> (if not
 removed) until the files are removed.
 
 
